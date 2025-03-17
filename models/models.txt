@@ -1,2 +1,2 @@
 Collect models:
-https://huggingface.co/spaces/Jannat24/uncovering_deepfake_image/tree/main/models
+[Download](https://huggingface.co/spaces/Jannat24/uncovering_deepfake_image/tree/main/models)
