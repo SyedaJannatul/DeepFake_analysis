@@ -20,7 +20,7 @@ test.py
 ## BibTeX
 
 ```
-@InProceedings{DeepFake(face-swapped)-images-using-FFHQ-dataset,
+@InProceedings{uncovering-deepfake,
 author = {Syeda Jannatul Naim and Sarker Tanveer Ahmed Rumee},
 title = {Uncovering DeepFake Images for Identifying Source-images},
 booktitle = {Proceedings of the 27th International Conference on Computer and Information Technology (\textsc{ICCIT}'24)}, 
