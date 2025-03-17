@@ -1,9 +1,9 @@
 # DeepFake_analysis
 ### To inference:
 
-'''
+```
 python3 inference.py image-path
-'''
+```
 
 ### In Gradio:
 
