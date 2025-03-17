@@ -1,14 +1,20 @@
 # DeepFake_analysis
-To inference:
-python3 inference.py image-path
+### To inference:
 
-In Gradio:
+'''
+python3 inference.py image-path
+'''
+
+### In Gradio:
+
 app.py
 
-To Train and Validation:
+
+### To Train and Validation:
+
 train.py
 
-To test individual model:
+### To test individual model:
 test.py
 
 ## BibTeX
