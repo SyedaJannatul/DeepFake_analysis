@@ -1,11 +1,19 @@
 # DeepFake_analysis
-### To inference:
+## Paper:
+<br/>
 
+## Dataset:
+[**DeepFake(Faceswapped Images)**](https://www.kaggle.com/datasets/syedajannatulnaim/deepfakeface-swapped-images-using-ffhq-dataset)<br/>
+[**Background removed images**](https://www.kaggle.com/datasets/syedajannatulnaim/background-removed-images-of-ffhq-dataset?select=flickr_remb)<br/>
+[**Segmented Face images**](https://www.kaggle.com/datasets/syedajannatulnaim/background-removed-images-of-ffhq-dataset?select=segmented_face)<br/>
+
+## Instructions:
+### To inference:
 ```
 python3 inference.py image-path
 ```
 
-### In Gradio:
+### For Gradio:
 
 app.py
 
@@ -16,6 +24,9 @@ train.py
 
 ### To test individual model:
 test.py
+
+## Huggingface Space:
+[Jannat24/uncovering_deepfake_image](https://huggingface.co/spaces/Jannat24/uncovering_deepfake_image) <br/>
 
 ## BibTeX
 
