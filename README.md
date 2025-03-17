@@ -15,7 +15,7 @@ test.py
 
 ```
 @InProceedings{DeepFake(face-swapped)-images-using-FFHQ-dataset,
-author = {Syeda Jannatul Naim and Dr. Sarker Tanveer Ahmed Rumee}, title = {Uncovering DeepFake Images for Identifying Source-images}, booktitle = {Proceedings of the 27th International Conference on Computer and Information Technology (\textsc{ICCIT}'24)}, 
+author = {Syeda Jannatul Naim and Sarker Tanveer Ahmed Rumee}, title = {Uncovering DeepFake Images for Identifying Source-images}, booktitle = {Proceedings of the 27th International Conference on Computer and Information Technology (\textsc{ICCIT}'24)}, 
 year = {2024}, 
 owner = {Syeda Jannatul Naim}, 
 address = {Cox’s Bazar, Bangladesh} }
