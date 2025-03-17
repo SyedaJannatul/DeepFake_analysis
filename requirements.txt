@@ -1,0 +1,12 @@
+torch
+torchvision
+transformers
+torchmetrics
+facenet_pytorch
+torch-fidelity
+mediapipe
+rembg
+pytorch_lightning
+omegaconf
+einops
+onnxruntime
