@@ -12,6 +12,10 @@
 [**Segmented Face images**](https://www.kaggle.com/datasets/syedajannatulnaim/background-removed-images-of-ffhq-dataset?select=segmented_face)<br/>
 
 ## Instructions:
+```
+git clone https://github.com/CompVis/taming-transformers.git
+```
+
 ### To inference:
 ```
 python3 inference.py image-path
