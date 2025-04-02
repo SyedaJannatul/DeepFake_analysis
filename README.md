@@ -4,7 +4,7 @@
 <br/><br/>
 **Keywords:** DeepFake, Faceswap, DeepFake image analysis, DeepFake source images.
 <br/><br/>
-[Preprint]()<br/>
+[Preprint](https://www.researchgate.net/publication/387024703_Uncovering_DeepFake_Images_for_Identifying_Source-images)<br/>
 
 ## Dataset:
 [**DeepFake(Faceswapped Images)**](https://www.kaggle.com/datasets/syedajannatulnaim/deepfakeface-swapped-images-using-ffhq-dataset)<br/>
