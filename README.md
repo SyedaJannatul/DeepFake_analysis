@@ -38,7 +38,7 @@ test.py
 @InProceedings{uncovering-deepfake,
 author = {Syeda Jannatul Naim and Sarker Tanveer Ahmed Rumee},
 title = {Uncovering DeepFake Images for Identifying Source-images},
-booktitle = {Proceedings of the 27th International Conference on Computer and Information Technology (\textsc{ICCIT}'24)}, 
+booktitle = {Proceedings of the 27th International Conference on Computer and Information Technology (ICCIT'24)}, 
 year = {2024}, 
 owner = {Syeda Jannatul Naim}, 
 address = {Cox’s Bazar, Bangladesh} }
