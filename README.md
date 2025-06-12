@@ -40,7 +40,7 @@ test.py
 
 ```
 @INPROCEEDINGS{11021847,
-  author={Naim, Syeda Jannatul and Rumee, Sarker Tanveer Ahmed},
+  author={Syeda Jannatul Naim and Sarker Tanveer Ahmed Rumee},
   booktitle={2024 27th International Conference on Computer and Information Technology (ICCIT)}, 
   title={Uncovering DeepFake Images for Identifying Source-images}, 
   year={2024},
