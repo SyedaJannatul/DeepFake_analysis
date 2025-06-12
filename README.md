@@ -39,13 +39,14 @@ test.py
 ## BibTeX
 
 ```
-@InProceedings{uncovering-deepfake,
-author = {Syeda Jannatul Naim and Sarker Tanveer Ahmed Rumee},
-title = {Uncovering DeepFake Images for Identifying Source-images},
-booktitle = {Proceedings of the 27th International Conference on Computer and Information Technology (ICCIT'24)}, 
-year = {2024}, 
-owner = {Syeda Jannatul Naim}, 
-address = {Cox’s Bazar, Bangladesh} }
+@INPROCEEDINGS{11021847,
+  author={Naim, Syeda Jannatul and Rumee, Sarker Tanveer Ahmed},
+  booktitle={2024 27th International Conference on Computer and Information Technology (ICCIT)}, 
+  title={Uncovering DeepFake Images for Identifying Source-images}, 
+  year={2024},
+  pages={2629-2634},
+  keywords={Deepfakes;Image analysis;Computer architecture;Security;Information technology;Image reconstruction;Faces;DeepFake;Faceswap;DeepFake image analysis;DeepFake source images},
+  doi={10.1109/ICCIT64611.2024.11021847}}
 
 ```
 
