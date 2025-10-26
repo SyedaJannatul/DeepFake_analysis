@@ -33,8 +33,7 @@ train.py
 ### To test individual model:
 test.py
 
-## Huggingface Space:
-[Jannat24/uncovering_deepfake_image](https://huggingface.co/spaces/Jannat24/uncovering_deepfake_image) <br/>
+
 
 ## BibTeX
 
